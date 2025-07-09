@@ -28,22 +28,6 @@ Stay tuned – I’ll be deploying this soon!
 
 ---
 
-## 📁 Folder Structure
-
-my-portfolio/
-├── public/
-│ └── media/ # Images & gifs
-├── src/
-│ ├── components/ # All React components
-│ ├── assets/ # Lottie JSON animations
-│ ├── App.js
-│ └── index.js
-├── .gitignore
-├── README.md
-└── package.json
-
----
-
 ## 📬 Contact
 
 If you like what you see or want to work together:
