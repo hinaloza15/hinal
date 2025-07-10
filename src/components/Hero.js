@@ -25,10 +25,10 @@ function Hero() {
           ></Typewriter>
         </h1>
 
-        <h3 className="text-headingB" style={{color:'#b0b0b0'}}>This is my portfolio. Feel free to look at any of my projects and </h3>
-        <p className="text-paragraph" style={{color:'#b0b0b0'}}>I'm a software engineer from Chicago, USA. Just a girl trying to solve hard problems until they become easy and boring</p>
+        <h3 className="text-headingB" style={{color:'#b0b0b0'}}>Just a girl, standing in front of her code, asking it to compile. </h3>
+        <p className="text-paragraph" style={{color:'#b0b0b0'}}>I'm a software engineer based in Chicago, building for the web and learning by doing.</p>
 
-        <a href="mailto:hinaloza15@gmail.com"style={{textDecoration:'None'}}><button className="btn btn-outline-pink">Say hi!</button></a>
+        <a href="mailto:hinaloza15@gmail.com"style={{textDecoration:'None'}}><button className="btn btn-outline-pink">Email</button></a>
 
       </div>
 

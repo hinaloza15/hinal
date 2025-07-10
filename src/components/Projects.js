@@ -3,11 +3,11 @@ import React from 'react'
 
 const projects = [
   {
-    title: "NomadStay",
+    title: "StayMate",
     description: "An Airbnb-style full-stack app with auth, image upload, and booking.",
-    tech: ["React", "Node.js", "MongoDB", "Tailwind"],
+    tech: ["React", "Node.js", "MongoDB"],
     link: "https://nomadstay.live",
-    github: "https://github.com/yourname/nomadstay"
+    github: "https://github.com/hinaloza15/staymate"
   },
   {
     title: "TradeView",
@@ -17,28 +17,28 @@ const projects = [
     github: "https://github.com/yourname/tradeview"
   },
   {
-    title: "Blogverse",
+    title: "DevConnect",
     description: "A full-stack blog platform with real-time commenting and likes.",
     tech: ["React", "Node", "MongoDB", "Socket.io"],
     link: "#",
     github: "#"
   },
   {
-    title: "QuickTask",
+    title: "AlgoVis",
     description: "Task manager app with filters, tags, and deadline reminders.",
     tech: ["React", "Redux", "Firebase"],
     link: "#",
     github: "#"
   },
   {
-    title: "Portfolio Site",
+    title: "SmartCart",
     description: "My personal portfolio built using React and animations.",
     tech: ["React", "AOS", "Bootstrap"],
     link: "#",
     github: "#"
   },
   {
-    title: "FoodFinder",
+    title: "AI Meeting Summarizer and Scheduler Assistant",
     description: "Find top-rated restaurants based on your location.",
     tech: ["HTML", "CSS", "JS", "Yelp API"],
     link: "#",
