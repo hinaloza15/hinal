@@ -37,13 +37,16 @@ function Navbar() {
 
           <div className="d-flex align-items-center">
             <a href="https://github.com/hinaloza15" target="_blank" rel="noreferrer" className="nav-icon mx-2 nav-item" style={{textDecoration:'None'}}>
-              <i class="fa-brands fa-github"></i>
+              <i className="fa-brands fa-github"></i>
             </a>
             <a href="mailto:hinaloza15@gmail.com" className="nav-icon mx-2 nav-item" style={{textDecoration:'None'}}>
-              <i class="fa-solid fa-envelope"></i>
+              <i className="fa-solid fa-envelope"></i>
             </a>
             <a href="https://www.linkedin.com/in/hinal-oza-93633b223/" target="_blank" rel="noreferrer" className="nav-icon mx-2 nav-item" style={{textDecoration:'None'}}>
-              <i class="fa-brands fa-linkedin"></i>
+              <i className="fa-brands fa-linkedin"></i>
+            </a>
+            <a href="https://leetcode.com/u/hinaloza/" target="_blank" rel="noreferrer" className="nav-icon mx-2 nav-item" style={{textDecoration:'None'}}>
+              <i className="fa-solid fa-code"></i>
             </a>
           </div>
 

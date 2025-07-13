@@ -14,7 +14,7 @@ const projects = [
     description: "A Zerodha-style trading dashboard with Chart.js and dummy stock data.",
     tech: ["React", "Chart.js", "Express", "Bootstrap"],
     link: "https://tradeview.live",
-    github: "https://github.com/yourname/tradeview"
+    github: "https://github.com/hinaloza15/TradeView"
   },
   {
     title: "DevConnect",

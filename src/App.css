@@ -119,7 +119,12 @@ body{
   padding-left: 1rem;
 }
 
-/* thsi is for the experience page */
+/* this is for the experience page */
+
+.experience-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
 
 .timeline {
   position: relative;
